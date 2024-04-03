@@ -44,12 +44,14 @@ body {
     height: 50px;
     font-size: 18px;
     border: none;
-    border: white;
+    outline: none;
 }
 
 .middle_div i {
     font-size: 30px;
     color: #019f55;
+    cursor: pointer;
+    border: none;
 }
 
 button {
